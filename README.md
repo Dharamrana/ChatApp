@@ -6,7 +6,14 @@ A full-featured real-time chat application built from scratch using Java Socket 
 
 ## Screenshots
 
-> Run the app and add screenshots here!
+### Login Screen
+![Login](screenshots/screenshot1.png)
+
+### Chat Window - User 1
+![User1](screenshots/screenshot2.png)
+
+### Chat Window - User 2
+![User2](screenshots/screenshot3.png)
 
 ---
 
