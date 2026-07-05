@@ -1,0 +1,8 @@
+out/
+*.class
+*.db
+uploads/*
+users.dat
+.vscode/
+*.iml
+.idea/

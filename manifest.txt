@@ -1,0 +1,3 @@
+Main-Class: com.chatapp.client.ChatGUI
+Class-Path: .
+
